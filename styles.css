@@ -1,0 +1,6 @@
+.header{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 20vh;
+}
